@@ -22,6 +22,18 @@ public class Data_provider {
 		return data;
 		
 		
+		Object[][] data = new Object[5][2];
+		data[0][0]="pune";
+		data[0][1]="Banglore";
+		data[1][0]="pune";
+		data[1][0]="delhi";
+		data[1][1]="pune";
+		data[2][0]="mysore";
+		return data;
+		
+		
+		
+		
 		
 	}
 	
